@@ -1,5 +1,4 @@
 {
-    "avengers": {
         "0": {
             "name": "thor",
             "password": "foo",
@@ -36,4 +35,3 @@
             "rating": ""
         }
     }
-}
